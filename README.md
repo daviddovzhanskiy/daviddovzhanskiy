@@ -8,6 +8,7 @@
   <img height="50" src="https://raw.githubusercontent.com/daviddovzhanskiy/daviddovzhanskiy/master/img/javascript.svg">
   <img height="50" src="https://raw.githubusercontent.com/daviddovzhanskiy/daviddovzhanskiy/master/img/react.svg">
   <img height="50" src="https://raw.githubusercontent.com/daviddovzhanskiy/daviddovzhanskiy/master/img/git.svg">
+  <img height="50" src="https://raw.githubusercontent.com/daviddovzhanskiy/daviddovzhanskiy/master/img/nodejs.svg">
   <img height="50" src="https://raw.githubusercontent.com/daviddovzhanskiy/daviddovzhanskiy/master/img/figma.svg">
   <img height="50" src="https://raw.githubusercontent.com/daviddovzhanskiy/daviddovzhanskiy/master/img/photoshop.svg">
 </div>
